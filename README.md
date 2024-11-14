@@ -9,4 +9,4 @@ Without Hold and Modify Method:
 
 ![converted_noHAM](https://github.com/user-attachments/assets/95624bdd-c7e8-4968-843b-ea963881a031)
 
-(The color reducing algorithm is not the best by far but good enough for my purposes)q
+(The color reducing algorithm is not the best by far but good enough for my purposes)
