@@ -8,7 +8,7 @@ public class Main {
 
     private static final double COLOR_SPACING_THRESHOLD = 32;
     private static final int COLOR_COUNT = 16;
-    private static final String IMAGE_PATH = "src/lena.jpg";
+    private static final String IMAGE_PATH = "src/test.jpg";
 
     public static void main(String[] args) throws IOException {
         BufferedImage originalImage = ImageIO.read(new File(IMAGE_PATH));
